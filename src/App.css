@@ -1,0 +1,150 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+
+.spacing-right {
+  margin-right: 1em;
+}
+.absolute {
+  position: absolute;
+}
+
+.big-padding{
+  padding: 2em 1.5em;
+}
+
+.block {
+  display: block;
+}
+.border-bottom{
+  border-bottom:1px solid currentcolor;
+}
+
+.border-top {
+  border-top: 1px solid currentcolor;
+}
+
+.bottom-space {
+  margin-bottom: 1em;
+}
+
+.button-space {
+  margin-bottom: 1em;
+}
+
+.cover {
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+.clear-margin {
+  margin-left: 0px;
+}
+
+
+
+.format-link {
+  text-decoration: none !important;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.full-height{
+  height: 100%;
+}
+
+.full-width{
+  width: 100%
+}
+
+.large-padding{
+  padding: 10px 15px;
+}
+
+.min-padding {
+  padding: 3px 5px;
+}
+
+.medium{
+  font-size: 1.2em;
+}
+
+.no-margin{
+  margin: 0px;
+}
+
+.no-padding{
+  padding: 0px;
+}
+
+
+.pull-front {
+  z-index: 1;
+}
+
+.top-space {
+  margin-top: 1em;
+}
+
+.big-top-space {
+  margin-top: 80px;
+}
+
+.big-bottom-space {
+  margin-bottom: 80px;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.right-space {
+  margin-right: 1.5em;
+}
+
+.vertical-timeline-element-content {
+  color: black;
+}
+
+.vertical-timeline-element--work .vertical-timeline-element-content {
+  border-top: 3px solid #2196f3;
+}
+
+.vertical-timeline-element--education .vertical-timeline-element-content {
+  border-top: 3px solid #3949AB;
+}
+
+.vertical-timeline-element--university .vertical-timeline-element-content {
+  border-top: 3px solid #E53935;
+}
+
+.vertical-timeline-element--trabajo .vertical-timeline-element-content {
+  border-top: 3px solid #5E35B1;
+}
+
+.vertical-timeline-element--expo .vertical-timeline-element-content {
+  border-top: 3px solid #009688;
+}
+
+.vertical-timeline-element--github .vertical-timeline-element-content {
+  border-top: 3px solid #263238;
+}
+
+
